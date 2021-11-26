@@ -1,4 +1,4 @@
-### Hi there myself Subham Das👋
+### Hi ! Subham Das here...👋
 
 
 - 🔭 I’m currently working on Deep Neural Networks
